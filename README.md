@@ -1,4 +1,14 @@
-### Hi there 👋
+# Duncan Jones
+
+💬 I am particularly interested in **Event Sourcing** and how it can be used in highly distributed environments such as Azure Serverless Functions.  My background is in financial systems (Insurance and Fund Accounting).
+
+📫 How to reach me: 
+ * **@Merrion** on twitter 
+
+😄 Pronouns: He/Him
+
+### What is "Merrion Computing"?
+The org name comes from a now closed company that I had back when I was a contractor.
 
 <!--
 **MerrionComputing/MerrionComputing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
